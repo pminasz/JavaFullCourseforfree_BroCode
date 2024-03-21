@@ -1,4 +1,4 @@
-package Java_Interfaces;
+package Java41_interface;
         // with interfaces, I can create variables normal, like I would do in Inheritance
         // I can also declare some methods
         // I do not need to declare the body to these methods

@@ -1,4 +1,4 @@
-package Java_Interfaces;
+package Java41_interface;
 
 public class Rabbit implements Prey {
     // to implement the method flee from Interface Pray, when defining the class Rabbit, add Implements Pray

@@ -1,4 +1,4 @@
-package Java_Interfaces;
+package Java41_interface;
 
 public interface Prey {
     // method flee, but without body

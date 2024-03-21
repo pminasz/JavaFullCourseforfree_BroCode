@@ -1,4 +1,4 @@
-package Java_Interfaces;
+package Java41_interface;
 //https://www.youtube.com/watch?v=xk4_1vDrzzo
 
     // interface = a template that can be applied to a class

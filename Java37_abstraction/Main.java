@@ -1,4 +1,4 @@
-package Java_Abstraction;
+package Java37_abstraction;
 
 public class Main {
     // abstract = abstract classes cannot be instanciated, but they can have a subclass

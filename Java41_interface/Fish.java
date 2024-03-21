@@ -1,4 +1,4 @@
-package Java_Interfaces;
+package Java41_interface;
  // implementing two  interfaces to the class Fish
 public class Fish implements Predator, Prey {
     // adding any unimplemented methods...

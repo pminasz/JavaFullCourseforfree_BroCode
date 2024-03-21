@@ -1,4 +1,4 @@
-package Java_Interfaces;
+package Java41_interface;
 
 public class Hawk implements Predator{
     @Override
