@@ -1,3 +1,4 @@
+//https://www.youtube.com/watch?v=xk4_1vDrzzo
 package Java27_constructors;
 
 public class Main {
@@ -16,5 +17,24 @@ public class Main {
 
         czlowiek2.eat();
         czlowiek1.drink();
+
+
+        // practiceCat
+
+
+        practice_Cat kotek = new practice_Cat("Mini", "dachowiec", 5);
+        practice_Cat kotek2 = new practice_Cat("Mucha", "dachowczyni", 2);
+
+        System.out.println(kotek.bread);
+        System.out.println(kotek2.bread);
+        System.out.println(kotek2.name);
+
+        kotek.play();
+        kotek2.scratch();
+
+        kotek2.play();
+        kotek.scratch();
     }
+
+
 }

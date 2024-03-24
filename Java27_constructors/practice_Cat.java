@@ -5,8 +5,8 @@ public class practice_Cat {
     String bread;
     int age;
     practice_Cat (String imie, String rasa, int wiek) {
-        name = imie;
-        bread = rasa;
+        this.name = imie;
+        this.bread = rasa;
         age = wiek;
     }
 
@@ -15,7 +15,7 @@ public class practice_Cat {
     }
 
     void scratch() {
-        System.out.println(bread+" is scratching a lot");
+        System.out.println(this.name+", "+this.bread+", "+" is scratching a lot");
     }
 
 }
