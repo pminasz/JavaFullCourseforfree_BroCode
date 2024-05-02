@@ -7,4 +7,5 @@ public interface Predator {
         void chase();
         void hunt();
 
-}
+                void equals();
+        }

@@ -1,4 +1,6 @@
 package Java41_interface;
+
+import java.lang.Object;
 //https://www.youtube.com/watch?v=xk4_1vDrzzo
 
     // interface = a template that can be applied to a class
@@ -14,8 +16,12 @@ public class Main {
     krulik.flee();
 
     Hawk ptak = new Hawk();
+    Hawk ptak2 = new Hawk();
     ptak.chase();
+    System.out.println(ptak.toString());
+    ptak.equals();
     ptak.hunt();
+    ptak2.kupa();
 
     Fish ryba = new Fish();
     ryba.hunt();
